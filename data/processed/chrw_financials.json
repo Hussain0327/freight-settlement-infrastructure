@@ -1,0 +1,63 @@
+{
+  "2023": {
+    "total_revenue": 17632.0,
+    "net_revenue": 2615.0,
+    "operating_income": 675.0,
+    "net_income": 461.0,
+    "cost_of_goods_sold": 15017.0,
+    "accounts_receivable": 2412.0,
+    "accounts_payable": 1113.0,
+    "total_assets": 5234.0,
+    "total_debt": 1475.0,
+    "cash_and_equivalents": 175.0,
+    "shipments_handled": 19000000,
+    "employees": 14839,
+    "effective_interest_rate": 0.065,
+    "days_in_year": 365,
+    "dso": 49.94,
+    "dpo": 27.05,
+    "ccc": 22.89,
+    "revenue_per_load": 928.0,
+    "daily_revenue": 48306849.32,
+    "data_source": "SEC EDGAR 10-K Filing 2023",
+    "units": {
+      "revenue": "millions USD",
+      "balance_sheet": "millions USD",
+      "shipments": "units"
+    }
+  },
+  "2024": {
+    "total_revenue": 17700.0,
+    "net_revenue": 2770.0,
+    "operating_income": 710.0,
+    "net_income": 487.0,
+    "cost_of_goods_sold": 14930.0,
+    "accounts_receivable": 2380.0,
+    "accounts_payable": 1089.0,
+    "total_assets": 5312.0,
+    "total_debt": 1425.0,
+    "cash_and_equivalents": 198.0,
+    "shipments_handled": 15700000,
+    "employees": 14200,
+    "effective_interest_rate": 0.07,
+    "days_in_year": 365,
+    "dso": 49.07,
+    "dpo": 26.62,
+    "ccc": 22.45,
+    "revenue_per_load": 1127.39,
+    "daily_revenue": 48493150.68,
+    "data_source": "SEC EDGAR 10-K Filing 2024",
+    "units": {
+      "revenue": "millions USD",
+      "balance_sheet": "millions USD",
+      "shipments": "units"
+    }
+  },
+  "metadata": {
+    "company": "C.H. Robinson Worldwide, Inc.",
+    "ticker": "CHRW",
+    "industry": "Freight Brokerage",
+    "extraction_date": "2025-02-05",
+    "notes": "Financial data extracted from 10-K filings for blockchain payment infrastructure analysis"
+  }
+}
